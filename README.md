@@ -36,7 +36,7 @@ Biblioteca:
 
 <h3>Tela de Cadastro de Reservas</h3>
 <img src="img_reservas/reservasview.png">
-<p>Aqui o usuário preenche os dados da reserva e o valor é calculado automaticamente, levando em consideração o número de dias entre a data de entrada e saída e o valor da diária que está fixado</p>
+<p>Aqui o usuário preenche os dados da reserva e o valor é calculado automaticamente, levando em consideração o número de dias entre a data de entrada e saída e o valor da diária que está fixado.</p>
 
 <h3>Tela de Cadastro de Hospedes</h3>
 <img src="img_reservas/registrohospedes.png">
@@ -46,10 +46,10 @@ Biblioteca:
 
 <img src="img_reservas/buscareservas.png">
 
-<p>Aqui o usuário consulta as reservas cadastradas. O usuário pode editar o deletar a reserva e pode buscar uma reserva pelo ID</p>
+<p>Aqui o usuário consulta as reservas cadastradas. O usuário pode editar ou deletar a reserva e também buscar uma reserva pelo ID.</p>
 
 <img src="img_reservas/buscahospedes.png">
-<p>Podem ser feitos os mesmos comandos de editar e deletar,semelhante a tabela reservas. Aqui as buscas são feitas pelo id.</p>
+<p>Podem ser feitos os mesmos comandos de editar e deletar,semelhante a tabela reservas.</p>
  
 
 ---
